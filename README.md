@@ -1,2 +1,2 @@
-# helloWorld_Git_GitHub2
+# helloWorld_Git_GitHub
 Primeiro repositório no Git
